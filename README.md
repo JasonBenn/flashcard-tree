@@ -1,0 +1,3 @@
+Flashcards organized into a tree. nodes of the tree represent progressively more specific categories, leaves are flashcards. click on any node and you'll study all descendant flashcards. could be a nice way to both organize information (it’s like a mind map) and study information at any level of granularity.
+
+For example, you might build a tree and call it “Backbone”. Immediate children could be “Backbone.Model”, “Backbone.View”, “Marionette.ItemView”, etc. children of “Backbone.View” could be “Lifecycle hooks”. Children of that could be flashcards related to those methods. If I wanted to study all of Backbone, I’d click on the top of the tree. If I wanted to review just the lifecycle methods, I’d click just that node
